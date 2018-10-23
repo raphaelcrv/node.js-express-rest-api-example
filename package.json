@@ -1,0 +1,23 @@
+{
+  "name": "le-musicas-backend",
+  "version": "1.0.0",
+  "description": "lyrics api search",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelcrv/le-musicas-backend.git"
+  },
+  "author": "Raphael Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelcrv/le-musicas-backend/issues"
+  },
+  "homepage": "https://github.com/raphaelcrv/le-musicas-backend#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4"
+  }
+}
